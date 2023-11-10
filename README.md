@@ -11,7 +11,7 @@
 
 ##
 ### Problema Proposto
--O desafio proposto pela MinSait é de ajudar os pequenos e médios produtores rurais que enfrentam dificuldades para obter crédito rural. Grandes propriedades recebem a maioria dos créditos, apesar de os pequenos produtores serem responsáveis por mais de 70% da produção de alimentos no Brasil.
+O desafio proposto pela MinSait é de ajudar os pequenos e médios produtores rurais que enfrentam dificuldades para obter crédito rural. Grandes propriedades recebem a maioria dos créditos, apesar de os pequenos produtores serem responsáveis por mais de 70% da produção de alimentos no Brasil.
 
 E uma das maiores dificuldades em adquirir ou aumentar suas chances de conseguir um financiamento é justamente a falta de dados e a assimetria das informações dos pequenos e médios produtores que não consegue apresentar para as empresas concessoras de crédito uma garantia ou maiores informações sobre o negócio.
 
