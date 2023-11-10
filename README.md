@@ -4,8 +4,8 @@
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="AgroFacil" height="250" width="400" src="https://media.licdn.com/dms/image/D4E03AQH5CVbw2iiSWw/profile-displayphoto-shrink_800_800/0/1695645154085?e=2147483647&v=beta&t=60FUBH9_CJ6RWyBPRpa-Rpyhmyi-3lAQeaCvExQPmD4">
-  <img align="center" alt="AgroFacil" height="250" width="600" src="https://media.licdn.com/dms/image/D4D16AQHr4crqohqZkg/profile-displaybackgroundimage-shrink_200_800/0/1669994833942?e=2147483647&v=beta&t=yCGbiFQ8iPUVVaQBstqP9cjWZ9yYbmP4bXH8SCydzq4">
+  <img align="center" alt="AgroFacil" height="220" width="350" src="https://media.licdn.com/dms/image/D4E03AQH5CVbw2iiSWw/profile-displayphoto-shrink_800_800/0/1695645154085?e=2147483647&v=beta&t=60FUBH9_CJ6RWyBPRpa-Rpyhmyi-3lAQeaCvExQPmD4">
+  <img align="center" alt="AgroFacil" height="220" width="550" src="https://media.licdn.com/dms/image/D4D16AQHr4crqohqZkg/profile-displaybackgroundimage-shrink_200_800/0/1669994833942?e=2147483647&v=beta&t=yCGbiFQ8iPUVVaQBstqP9cjWZ9yYbmP4bXH8SCydzq4">
   
 </div>
 
