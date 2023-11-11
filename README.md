@@ -31,8 +31,6 @@ Com isso a nossa solução visa dispor para o pequeno e médio produtor ferramen
   <img align="center" alt="AgroFacil" height="220" width="350" src="https://media.licdn.com/dms/image/D4E03AQH5CVbw2iiSWw/profile-displayphoto-shrink_800_800/0/1695645154085?e=2147483647&v=beta&t=60FUBH9_CJ6RWyBPRpa-Rpyhmyi-3lAQeaCvExQPmD4">
 </div>
 
-
+link da nossa solução: http://www.php7.kinghost.net/agrofacil/public/
 
 Nosso website oferece uma solução completa que permite que os produtores consultem seus scores de crédito, registrem dados de colheitas e utilizem análise preditiva para melhorar o desempenho de suas produções, tudo em um único ambiente online. Isso capacita os agricultores e promove o desenvolvimento sustentável das áreas rurais.
-
-
