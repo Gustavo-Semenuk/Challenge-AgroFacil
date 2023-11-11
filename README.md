@@ -24,7 +24,6 @@ O desafio proposto pela MinSait é de ajudar os pequenos e médios produtores ru
 
 E uma das maiores dificuldades em adquirir ou aumentar suas chances de conseguir um financiamento é justamente a falta de dados e a assimetria das informações dos pequenos e médios produtores que não consegue apresentar para as empresas concessoras de crédito uma garantia ou maiores informações sobre o negócio.
 
-Com isso a nossa solução visa dispor para o pequeno e médio produtor ferramentas que possam potencializar sua produção e gerar relatórios e informações consolidadas para apresentar as empresas de crédito rural.
 ##
 ### Nosso Projeto
 <div style="display: inline_block"><br>
@@ -33,4 +32,23 @@ Com isso a nossa solução visa dispor para o pequeno e médio produtor ferramen
 
 ### link da nossa solução: http://www.php7.kinghost.net/agrofacil/public/
 
+A nossa solução visa dispor para o pequeno e médio produtor ferramentas que possam potencializar sua produção e gerar relatórios e informações consolidadas para apresentar as empresas de crédito rural, e para chegar ao público alvo e entrega a solução proposta desenvolvemos um website.
+
 Nosso website oferece uma solução completa que permite que os produtores consultem seus scores de crédito, registrem dados de colheitas e utilizem análise preditiva para melhorar o desempenho de suas produções, tudo em um único ambiente online. Isso capacita os agricultores e promove o desenvolvimento sustentável das áreas rurais.
+
+Em relação as ferramentas para ajudar os produtores, nós desenvolvemos três produtos, sendo eles: análise de crédito, análise de produção e análise preditiva (Desenvolvimento futuro)
+
+Segue abaixo o descritivo das ferramentas propostas:
+
+Análise de Crédito:
+
+Nesta ferramenta apresentamos ao usuário um score de crédito para o tipo de produção dele levando em consideração as características da região em que o produtor se encontra e as principais caracteristicas do produto produzido. O score tem a finalidade de informar se o produto produzido tem match com a região em que o mesmo se situa e também sugerir ao produtor os produtos que também se enquadram para a região dele. 
+
+Análise de Produção:
+
+Na análise de produção visamos apresentar ao produtor uma forma de melhor sobre os números do seu negócio e entender os seus custos. Nestá análise o usuário inseri os dados de custo de sua produção em diversas e setores da sua produção e após isso nossa solução apresenta a ele se o custo está dentro ou está do que é praticado no mercado, tendo como base em uma análise histórica para aquele produto em nosso banco de dados para tirar este insight valioso ao produtor que ainda pode extrair um relatórico para ser apresentado as empresas concessoras de crédito.
+
+Análise Preditiva:
+
+A análise Preditiva visa justamente prever os resultados da produção do pequeno e médio produtor, prever informações como faturamento, safra, possíveis riscos da produção e pontos de alerta. Está parte da solução tem o intuito de aprender com base nos dados do próprio usuário e usar a nossa vasta base de dados histórica sobre clima, caracteristícas da região, safras, acidentes e causalidades da região dentre tantas outras informações. Com isso podemos gerar um insight para o produtor tanto a prever resultados de sua operação quanto se previnir de possível causalidades que possam afetar seu faturamento. 
+
