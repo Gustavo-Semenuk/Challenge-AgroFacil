@@ -24,6 +24,10 @@ O desafio proposto pela MinSait é de ajudar os pequenos e médios produtores ru
 
 E uma das maiores dificuldades em adquirir ou aumentar suas chances de conseguir um financiamento é justamente a falta de dados e a assimetria das informações dos pequenos e médios produtores que não consegue apresentar para as empresas concessoras de crédito uma garantia ou maiores informações sobre o negócio.
 
+### Organização do projeto
+O projeto realizado para o Challenge referente ao ano de 2023 foi estruturado em forma de sprints no qual a Fiap pré determinou datas e prazos de entrega das sprints, na onde cada entrega da sprint traz um assunto estudado em cada matéria no semestre sendo os sprints 1 e 2 referente ao primeiro semestre do ano letivo e os sprints 3 e 4 referente ao segundo semestre do ano. 
+
+
 ##
 ### Nosso Projeto
 <div style="display: inline_block"><br>
