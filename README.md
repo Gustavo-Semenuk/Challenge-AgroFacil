@@ -29,10 +29,26 @@ O projeto realizado para o Challenge referente ao ano de 2023 foi estruturado em
 
 
 ##
+
+### Nossa Equipe:
+
+* Fabio Pereira: https://www.linkedin.com/in/fabio-pereira-7363aa143/
+
+* Giovanna Satorres: https://www.linkedin.com/in/giovanna-satorres-66b59020a/
+
+* Giullia Bianca: https://www.linkedin.com/in/giullia-bianca-rocha-souza-586629268/
+
+* Gustavo Semenuk: https://www.linkedin.com/in/gustavo-semenuk/
+
+* Rafael Luiz: https://www.linkedin.com/in/rafaelluiz-guimaraes/
+
+
+##
 ### Nosso Projeto
 <div style="display: inline_block"><br>
   <img align="center" alt="AgroFacil" height="220" width="350" src="https://media.licdn.com/dms/image/D4E03AQH5CVbw2iiSWw/profile-displayphoto-shrink_800_800/0/1695645154085?e=2147483647&v=beta&t=60FUBH9_CJ6RWyBPRpa-Rpyhmyi-3lAQeaCvExQPmD4">
 </div>
+
 
 ### link da nossa solução: http://www.php7.kinghost.net/agrofacil/public/
 
@@ -55,4 +71,13 @@ Na análise de produção visamos apresentar ao produtor uma forma de melhor sob
 Análise Preditiva:
 
 A análise Preditiva visa justamente prever os resultados da produção do pequeno e médio produtor, prever informações como faturamento, safra, possíveis riscos da produção e pontos de alerta. Está parte da solução tem o intuito de aprender com base nos dados do próprio usuário e usar a nossa vasta base de dados histórica sobre clima, caracteristícas da região, safras, acidentes e causalidades da região dentre tantas outras informações. Com isso podemos gerar um insight para o produtor tanto a prever resultados de sua operação quanto se previnir de possível causalidades que possam afetar seu faturamento. 
+
+##
+
+<div> 
+  <a href="https://www.instagram.com/projetoagrofacil/?igshid=YTQwZjQ0NmI0OA%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:projetoagrofacil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/agrof%C3%A1cil-fiap-0862b5293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
